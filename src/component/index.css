@@ -1,0 +1,6 @@
+.clickMe {
+    border: 2px solid rgb(29, 59, 230);
+    border-radius: 8px;
+    background-color: rgb(48, 50, 50);
+    color: white;
+}
